@@ -94,7 +94,7 @@ void draw() {
  
 
 
-println(mouseX + "." +  mouseY);
+
 /// Game Over   
   if(lives<0){
    GameOver =true; 
